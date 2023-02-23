@@ -1,0 +1,33 @@
+h1 { 
+    text-align: center;
+    background-color: rgb(47, 152, 117)
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(131, 189, 131);
+    justify-content: center;
+}
+
+figure {
+    text-align: center;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    color: rgb(2, 7, 12);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.campo {
+    color: rgb(0, 0, 0);
+}
+fieldset{
+   border-color: rgb(250, 247, 247);
+}
